@@ -1,9 +1,9 @@
 ----Các lệnh cơ bản khi dùng git
 + git init
-+ git clone
++ git clone: lấy dự án về máy
 + git pull
-+ git add
-+ git commit
-+ git push
-+ git log
++ git add: thêm file vào dự án
++ git commit: xác nhận
++ git push: đẩy file lên github
++ git log: kiểm tra đang ở branch nào
 + git log - decorate - graph - oneline
