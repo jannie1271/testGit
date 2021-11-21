@@ -1,0 +1,9 @@
+----Các lệnh cơ bản khi dùng git
++ git init
++ git clone
++ git pull
++ git add
++ git commit
++ git push
++ git log
++ git log - decorate - graph - oneline
